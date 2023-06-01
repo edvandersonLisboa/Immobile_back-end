@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Immobile_back-end.sln
+/Immobile_back-end.sln
+/.gitignore
